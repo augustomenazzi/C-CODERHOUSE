@@ -14,7 +14,9 @@ namespace SistemaGestionBussiness
         private readonly ProductoVendidoBussiness productoVendidoBussiness;
         private readonly ProductoBussiness productoBussiness;
 
-        public VentaBussiness(CoderContext coderContext, VentaMapper ventaMapper, ProductoVendidoBussiness productoVendidoBussiness, ProductoBussiness productoBussiness)
+        public VentaBussiness(CoderContext coderContext, VentaMapper ventaMapper, 
+                              ProductoVendidoBussiness productoVendidoBussiness, 
+                              ProductoBussiness productoBussiness)
         {
             this.coderContext = coderContext;
             this.ventaMapper = ventaMapper;
