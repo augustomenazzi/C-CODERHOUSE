@@ -8,7 +8,7 @@ namespace SistemaGestionEntities
         public Usuario()
         {
             Productos = new HashSet<Producto>();
-            Venta = new HashSet<Ventum>();
+            Venta = new HashSet<Venta>();
         }
 
         public int Id { get; set; }
@@ -19,6 +19,6 @@ namespace SistemaGestionEntities
         public string Mail { get; set; } = null!;
 
         public virtual ICollection<Producto> Productos { get; set; }
-        public virtual ICollection<Ventum> Venta { get; set; }
+        public virtual ICollection<Venta> Venta { get; set; }
     }
 }

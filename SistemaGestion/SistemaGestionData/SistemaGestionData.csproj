@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SistemaGestion\SistemaGestion.csproj" />
+    <ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
   </ItemGroup>
 
 </Project>

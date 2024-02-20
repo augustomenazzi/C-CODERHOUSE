@@ -1,0 +1,15 @@
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.runtimeconfig.json
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.genruntimeconfig.cache
+C:\Users\janoa\OneDrive\Escritorio\C#\PROYECTO FINAL\C-CODERHOUSE\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll

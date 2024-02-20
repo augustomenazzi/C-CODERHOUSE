@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionUI\\SistemaGestionUI.csproj": {}
+    "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionUI\\SistemaGestionUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
+    "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+        "projectUniqueName": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
         "projectName": "SistemaGestionEntities",
-        "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+        "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
         "packagesPath": "C:\\Users\\janoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\obj\\",
+        "outputPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionUI\\SistemaGestionUI.csproj": {
+    "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionUI\\SistemaGestionUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionUI\\SistemaGestionUI.csproj",
+        "projectUniqueName": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionUI\\SistemaGestionUI.csproj",
         "projectName": "SistemaGestionUI",
-        "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionUI\\SistemaGestionUI.csproj",
+        "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionUI\\SistemaGestionUI.csproj",
         "packagesPath": "C:\\Users\\janoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionUI\\obj\\",
+        "outputPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
-                "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj"
+              "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
+                "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj"
               }
             }
           }

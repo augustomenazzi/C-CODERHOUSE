@@ -870,6 +870,37 @@
           }
         }
       },
+      "SistemaGestionBussiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.26",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26",
+          "SistemaGestionData": "1.0.0",
+          "SistemaGestionEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SistemaGestionBussiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaGestionBussiness.dll": {}
+        }
+      },
+      "SistemaGestionData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.26",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26",
+          "SistemaGestionEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SistemaGestionData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaGestionData.dll": {}
+        }
+      },
       "SistemaGestionEntities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2443,6 +2474,16 @@
         "version.txt"
       ]
     },
+    "SistemaGestionBussiness/1.0.0": {
+      "type": "project",
+      "path": "../SistemaGestionBussiness/SistemaGestionBussiness.csproj",
+      "msbuildProject": "../SistemaGestionBussiness/SistemaGestionBussiness.csproj"
+    },
+    "SistemaGestionData/1.0.0": {
+      "type": "project",
+      "path": "../SistemaGestionData/SistemaGestionData.csproj",
+      "msbuildProject": "../SistemaGestionData/SistemaGestionData.csproj"
+    },
     "SistemaGestionEntities/1.0.0": {
       "type": "project",
       "path": "../SistemaGestionEntities/SistemaGestionEntities.csproj",
@@ -2455,7 +2496,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.26",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.26",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.26",
-      "SistemaGestionEntities >= 1.0.0",
+      "SistemaGestionBussiness >= 1.0.0",
+      "SistemaGestionData >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -2465,11 +2507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestion\\SistemaGestion.csproj",
+      "projectUniqueName": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestion\\SistemaGestion.csproj",
       "projectName": "SistemaGestion",
-      "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestion\\SistemaGestion.csproj",
+      "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestion\\SistemaGestion.csproj",
       "packagesPath": "C:\\Users\\janoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestion\\obj\\",
+      "outputPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2486,8 +2528,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
-              "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj"
+            "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj": {
+              "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj"
+            },
+            "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionData\\SistemaGestionData.csproj": {
+              "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionData\\SistemaGestionData.csproj"
             }
           }
         }

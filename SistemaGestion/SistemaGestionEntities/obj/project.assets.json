@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+      "projectUniqueName": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
       "projectName": "SistemaGestionEntities",
-      "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+      "projectPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
       "packagesPath": "C:\\Users\\janoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\obj\\",
+      "outputPath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janoa\\AppData\\Roaming\\NuGet\\NuGet.Config",

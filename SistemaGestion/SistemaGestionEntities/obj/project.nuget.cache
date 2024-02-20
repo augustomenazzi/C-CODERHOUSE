@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYlZIyYBE1FZPof3JeArYYpA9Jpk5JOJywQh4psKlI5imGZ8Otrw3FAL7ZhI36kacnHYif8zWp9CiXEuNTMtyw==",
+  "dgSpecHash": "71Jx3nNPLF4HykLief1YqJio+SU4fEFKrDwSKFhcgBuhgUG+ldMzKOMZuz3F7+NaJ41JUPmVfM28S1YxEcpECA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\REPOS\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+  "projectFilePath": "C:\\Users\\janoa\\OneDrive\\Escritorio\\C#\\PROYECTO FINAL\\C-CODERHOUSE\\SistemaGestion\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janoa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\janoa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

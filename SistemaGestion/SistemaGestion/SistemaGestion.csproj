@@ -21,7 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
+    <ProjectReference Include="..\SistemaGestionBussiness\SistemaGestionBussiness.csproj" />
+    <ProjectReference Include="..\SistemaGestionData\SistemaGestionData.csproj" />
   </ItemGroup>
 
 </Project>
