@@ -18,7 +18,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpGet("{idUsuario}")]
+        [HttpGet("Obtener productos vendidos por {idUsuario}")]
         public ActionResult<List<ProductoVendidoDTO>> ObtenerProductosVendidosPorIdUsuario(int idUsuario)
         {
             if (idUsuario < 0) 

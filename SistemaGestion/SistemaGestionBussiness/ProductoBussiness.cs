@@ -3,6 +3,7 @@ using SistemaGestionEntities;
 using SistemaGestionData;
 using SistemaGestionEntities.DTO_s;
 using SistemaGestionEntities.Mapper;
+using System.Linq;
 
 namespace SistemaGestionBussiness
 {

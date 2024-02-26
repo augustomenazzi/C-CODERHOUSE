@@ -17,7 +17,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpGet("{nombreUsuario}")]
+        [HttpGet("Obtener Usuario por {nombreUsuario}")]
         public ActionResult<UsuarioDTO> ObtenerUsuarioPorNombreUsuario(string nombreUsuario)
         {
             if (string.IsNullOrWhiteSpace(nombreUsuario))
@@ -37,7 +37,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpGet("{usuario}/{password}")]
+        [HttpGet("Obtener Usuario por {usuario}/{password}")]
         public ActionResult<UsuarioDTO> ObtenerUsuarioPorUsuarioYPassword(string usuario, string password)
         {
             if (string.IsNullOrWhiteSpace(usuario) || string.IsNullOrWhiteSpace(password))
@@ -56,7 +56,7 @@ namespace SistemaGestion.Controllers
 
 
 
-        [HttpPost]
+        [HttpPost("Agregar un Usuario")]
         public IActionResult AgregarUnNuevoUsuario([FromBody] UsuarioDTO usuario)
         {
             if (this.usuarioBussiness.AgregarUsuario(usuario))
@@ -70,7 +70,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpPut("{id}")]
+        [HttpPut("Actualizar Usuario por {id}")]
         public IActionResult ActualizarUsuarioPorId(int id, UsuarioDTO usuario)
         {
             if (id > 0)

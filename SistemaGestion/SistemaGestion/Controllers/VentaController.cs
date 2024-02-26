@@ -17,7 +17,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpGet("{idUsuario}")]
+        [HttpGet("Obtener ventas por {idUsuario}")]
         public ActionResult<List<VentaDTO>> ObtenerVentasPorIdUsuario(int idUsuario)
         {
             if (idUsuario < 0)
@@ -35,7 +35,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpPost ("{idUsuario}")]
+        [HttpPost ("Agregar una nueva venta {idUsuario}")]
         public IActionResult AgregarUnaNuevaVenta(int idUsuario, [FromBody] List<ProductoDTO> productos)
         {
             if (productos.Count == 0)

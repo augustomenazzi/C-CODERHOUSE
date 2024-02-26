@@ -18,7 +18,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpGet("{idUsuario}")]
+        [HttpGet("Obtener productos por {idUsuario}")]
         public ActionResult<List<ProductoDTO>> ObtenerProductosPorIdUsuario(int idUsuario)
         {
             if (idUsuario < 0)
@@ -37,7 +37,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpPost]
+        [HttpPost("Agregar un producto")]
         public IActionResult AgregarUnNuevoProducto([FromBody] ProductoDTO producto)
         {
             if (this.productoBussiness.AgregarProducto(producto))
@@ -51,12 +51,12 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpPut]
-        public IActionResult ActualizarProductoPorId(ProductoDTO producto)
+        [HttpPut("Actualizar un producto")]
+        public IActionResult ActualizarProducto(ProductoDTO producto)
         {
             try
             {
-                this.productoBussiness.ActualizarProductoPorId(producto);
+                this.productoBussiness.ActualizarProducto(producto);
                 return base.Ok(new { mensaje = "Producto actualizado" });
 
             }
@@ -67,7 +67,7 @@ namespace SistemaGestion.Controllers
         }
 
 
-        [HttpDelete("{id}")]
+        [HttpDelete("Eliminar producto por {id}")]
         public IActionResult BorrarProducto(int id)
         {
             if (id > 0)
